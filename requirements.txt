@@ -1,3 +1,13 @@
 streamlit
 pandas
 youtube
+numpy
+scikit-learn
+matplotlib
+plotly
+requests
+architecture
+aiohttp
+asyncio
+python-dotenv
+openai
